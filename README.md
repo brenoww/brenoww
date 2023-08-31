@@ -30,5 +30,5 @@ Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior
 > ⁠A verdadeira arte é só um reflexo dos sentimentos de quem a contempla - Ordem Paranormal
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoww&theme=tokyonight&custom_title=Top%20%Linguagens)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenow&theme=tokyonight&custom_title=Top%20%Linguagens)
 
