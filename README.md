@@ -30,4 +30,5 @@ Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoww&theme=tokyonight&custom_title=Top%20%Linguagens)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brenoww&theme=tokyonight)
 
