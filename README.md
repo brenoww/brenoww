@@ -4,7 +4,7 @@
 
 Baiano, gamer, musicista, aspirante a fitness e programador.
 
-Me chamo Breno Villas Boas, atualmente me encontro em transição de carreida para a área de **Desenvolvimento Back-End**. Por meio da iniciativa [Potencia Tech](https://potenciatech.com.br/), da Ifood, em parceria com a escola [Cubos Academy](https://cubos.academy/), venho cursando Desenvolvimento de Software com Foco em Back-End, aprimorando meus conhecimentos em Node.js, Javascript, PostgreSQL e versionamento de códigos.
+Me chamo Breno Villas Boas, atualmente me encontro em transição de carreida para a área de **Desenvolvimento Back-End**. Por meio da iniciativa [Potencia Tech](https://potenciatech.com.br/), da Ifood, em parceria com a escola [Cubos Academy](https://cubos.academy/), venho cursando Desenvolvimento de Software com Foco em Back-End, aprimorando meus conhecimentos em Node.js, Javascript, API REST, PostgreSQL e versionamento de códigos.
 
 Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior de tecnologia em Jogos Digitais - IFBA
 
