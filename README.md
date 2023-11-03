@@ -17,7 +17,7 @@ Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior
 
 ## :books: Aprendendo:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,css,redux,react,tailwind,firebase,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,redux,mongodb,react,tailwind,firebase,nextjs)](https://skillicons.dev)
 
 ## :hammer_and_wrench: Outros: 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
