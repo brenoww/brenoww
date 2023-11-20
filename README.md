@@ -4,7 +4,7 @@
 
 Baiano, gamer, musicista, aspirante a fitness e programador.
 
-Me chamo Breno Villas Boas, sou Backend Developer, com foco em Node.js, possuo alguns projetos em Javascript, Node.js, Express, SQL e AWS, entre outras tecnologias complementares. Tenho como objetivo promover resoluções de problemas e trazer qualidade de vida através de soluções técnicas e tecnológicas na área de Desenvolvimento de Software para as pessoas no dia-a-dia.
+Me chamo **Breno Villas Boas**, sou **Backend Developer**, com foco em **Node.js**, possuo alguns projetos em **Javascript**, **Node.js**, **Express**, **SQL** e **AWS**, entre outras tecnologias complementares. Tenho como objetivo promover resoluções de problemas e trazer qualidade de vida através de soluções técnicas e tecnológicas na área de Desenvolvimento de Software para as pessoas no dia-a-dia.
 
 Atualmente me encontro em mais uma jornada de aprimoramento como dev, estudando Banco de Dados com Oracle e Fundamentos de Rede pela Potência Tech com a Descomplica.
 
