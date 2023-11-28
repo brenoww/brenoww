@@ -21,7 +21,7 @@ Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior
 
 ## :keyboard: Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,git,js,ts,nodejs,express,postgres,unity,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,git,js,ts,mongodb,nodejs,express,postgres,unity)](https://skillicons.dev)
 
 ## :books: Aprendendo:
 
