@@ -9,7 +9,7 @@ Me chamo **Breno Villas Boas**, sou **Backend Developer**, com foco em **Node.js
 Atualmente me encontro em mais uma jornada de aprimoramento como dev, estudando Banco de Dados com Oracle e Fundamentos de Rede pela Potência Tech com a Descomplica.
 
 **Atuação Profissional:**
-Desenvolvedor de Software Back-End | Node.js | JS | Javascript | Banco de Dados | SQL & Eletrotécnico
+Desenvolvedor de Software Back-End | Node.js | JavaScript | TypeScript | Express.js | MongoDB | PostegreSQL | Banco de Dados | SQL & Eletrotécnico
 
 **Outras informações:**
 Estudando também HTML5, CSS3, Javascript, MongoDB, React e Redux, para aprimorar meu front-end, e AWS para enriquecer meu back-end
@@ -21,11 +21,11 @@ Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior
 
 ## :keyboard: Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,git,js,nodejs,postgres,express,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,git,js,ts,nodejs,express,postgres,unity,mongodb)](https://skillicons.dev)
 
 ## :books: Aprendendo:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,redux,react,tailwind,firebase,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,redux,react,tailwind,firebase,nextjs)](https://skillicons.dev)
 
 ## :hammer_and_wrench: Outros: 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
