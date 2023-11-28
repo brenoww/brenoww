@@ -20,8 +20,11 @@ Possuo experiências com C# e Unity adquiridas em 2021, durante o curso superior
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-villas-boas)
 
 ## :keyboard: Hard Skills:
+### Backend Javascript Stack:
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,mongodb,nodejs,express,postgres)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,git,js,ts,mongodb,nodejs,express,postgres,unity)](https://skillicons.dev)
+### Game Developer Stack:
+[![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 ## :books: Aprendendo:
 
